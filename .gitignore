@@ -1,0 +1,6 @@
+data/images/**/rgb.png
+!data/images/**/readme.md
+env
+models/*.pt
+models/*.json
+__pycache__
